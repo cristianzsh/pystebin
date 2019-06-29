@@ -1,6 +1,8 @@
 # pystebin
 Your own pastebin server in Python
 
+<p align="center"><img src="example.gif"/></p>
+
 #### How to use
 
 Start the server:
