@@ -1,5 +1,5 @@
 # pystebin
-Your own pastebin server in Python
+Your own command line based pastebin server in Python
 
 <p align="center"><img src="example.gif"/></p>
 
